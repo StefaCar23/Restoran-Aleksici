@@ -1,0 +1,109 @@
+#wraper{
+	width: 1920px;
+	height: 1024px;
+	border: 1.5px solid;
+	background-color: darkblue;
+}
+
+#gornji{
+	width: 1920px;
+	height: 200px;
+	border: 0.5px solid;
+	display: inline-flex;
+	color: white;
+	
+	
+}
+
+#g1{
+	width: 640px;
+	height: 200px;
+	text-align: center;
+	
+}
+
+#g2{
+	width: 640px;
+	height: 200px;
+	text-align: center;
+	
+}
+
+#g3{
+	width: 640px;
+	height: 200px;
+	text-align: center;
+}
+
+#omotac{
+	width: 1920px;
+	height: 824px;
+	display: inline-flex;
+	color: white;
+	
+}
+
+#div1{
+	width: 640px;
+	height: 100%;
+	border: 0.5px solid;
+	text-align: center;
+	font-size: 20px;
+}
+
+#div2{
+	width: 640px;
+	height: 100%;
+	border: 0.5px solid;
+	text-align: center;
+	font-size: 20px;
+}
+
+#div3{
+	width: 640px;
+	height: 100%;
+	border: 0.5px solid;
+	font-size: 20px;
+	text-align: center;
+}
+
+#logoutdugme{
+	
+	width: 100px;
+	height: 50px;
+	font-size: 20px;
+	font-style: bold;
+	
+}
+
+#vratise1{
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	font-style: bold;
+}
+
+.menu{
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+	font-style: italic bold;
+	
+}
+
+.menidugmad{
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+	font-style: bold;
+}
+
+
+
+
+
+
+
+
+
+

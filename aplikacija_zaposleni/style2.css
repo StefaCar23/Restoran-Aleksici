@@ -1,0 +1,30 @@
+#wraper{
+	width: 1920px;
+	height: 1024px;
+	border: 2px solid;
+	text-align: center;
+	padding-top: 120px;
+	font-size: 30px;
+}
+
+.logy{
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+}
+
+#logdugme{
+	width: 120px;
+	height: 40px;
+	font-size: 15px;
+}
+
+#signup{
+	width: 120px;
+	height: 40px;
+	font-size: 15px;
+}
+
+.up{
+	font-size: 80px;
+}
